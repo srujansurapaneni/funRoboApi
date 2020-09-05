@@ -10,3 +10,12 @@ Framework ? :
 Robots supported:
 
 API Docs:
+
+Design Patterns followed:
+
+Design Principles followed:
+
+Architecture patterns followed:
+
+Programming paradigms involved:
+
