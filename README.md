@@ -6,6 +6,14 @@ Libraries:
 Platforms supported:
 
 Framework ? :
+  Decorators:
+  Context Managers:
+  Higher order functions:
+  Introspection:
+  Magic methods:
+  Descriptors:
+  Generators:
+  Iterator protocol:
 
 Robots supported:
 
