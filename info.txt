@@ -1,0 +1,11 @@
+- how many folders?
+- how many levels depth
+- how many modules?
+- what module goes into what folder?
+- how does data flow through the project
+- what features and functions should be grouped together?
+- what functions should be kept isolated?
+- module and import systems to define project structure
+- code style
+- API design
+-
